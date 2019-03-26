@@ -1,4 +1,10 @@
-.first {
-  background-color: black;
+*
 
+.nav {
+  max-width: 960px;
 }
+
+.main-content {
+  max-width: 960px;
+}
+
